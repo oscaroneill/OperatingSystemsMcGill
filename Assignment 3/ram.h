@@ -1,0 +1,1 @@
+int addToRAM(FILE* p);
